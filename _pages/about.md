@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<<<<<<< HEAD
 <p align="center">
   <img src="images/arif.jpg" alt="Profile Picture" width="200" height="200">
 </p>
+=======
+
