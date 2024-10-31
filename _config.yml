@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr Ashraf Siddique / Home"
+title                    : "Dr. Ashraf Siddique / Home"
 title_separator          : "-"
-name                     : &name "Dr Ashraf Siddique"
+name                     : &name "Ashraf Siddique"
 description              : &description "personal description"
 url                      : https://arif2127.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "arif2127.github.io"
 author:
   # Biographic information
   avatar           : "arif.jpg"
-  name             : "Dr Ashraf Siddique"
+  name             : "Dr. Ashraf Siddique"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Computer Vision Engineer"
   location         : "South Korea"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=NPITIKcAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2186-5735"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
