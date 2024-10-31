@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ashraf Siddique / Home"
+title                    : "Dr Ashraf Siddique / Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr Ashraf Siddique"
 description              : &description "personal description"
 url                      : https://arif2127.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "arif2127.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ashraf Siddique"
+  name             : "Dr Ashraf Siddique"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine Learning and Computer Vision Engineer"
+  location         : "South Korea"
+  employer         : "OPIN INC."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "siddique2127@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
