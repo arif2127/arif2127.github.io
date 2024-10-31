@@ -21,7 +21,7 @@ repository               : "arif2127.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "arif.jpg"
   name             : "Dr Ashraf Siddique"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Computer Vision Engineer"
