@@ -24,7 +24,7 @@ author:
   avatar           : "arif.jpg"
   name             : "Dr. Ashraf Siddique"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning and Computer Vision Engineer"
+  bio              : "AI and Computer Vision Engineer"
   location         : "South Korea"
   employer         : "OPIN INC."
   uri              : # URL
@@ -218,7 +218,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolios:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
