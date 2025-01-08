@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 
 <img src="images/home.png" alt="AI and Computer Vision Engineer" style="float: right; width: 250px; margin-left: 15px;"/>
-I am an AI and Computer Vision Engineer , specializing in deep learning solutions for industrial automation. My work primarily focuses on developing robust and scalable APIs for defect detection, object detection, semantic segmentation, and anomaly detection. Additionally, I have expertise in camera calibration, object alignment, and 3D Reconstruction.
+I am an AI and Computer Vision Engineer , specializing in deep learning solutions for industrial automation. My work primarily focuses on developing robust and scalable APIs for  object or defect detection, semantic segmentation, and anomaly detection. Additionally, I have expertise in camera calibration, object alignment, and 3D Reconstruction.
 
 I am passionate about integrating vision-based robotics with large language models (LLMs) to enable intuitive human-robot communication. My work focuses on developing systems where robots can understand voice commands and respond naturally. To advance this, I have fine-tuned the Wav2Vec ASR model for Bangla and developed a [demo](http://siddique2127.pythonanywhere.com/).
 
