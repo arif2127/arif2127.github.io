@@ -10,11 +10,13 @@ redirect_from:
 ## About Me
 
 <img src="images/home.png" alt="AI and Computer Vision Engineer" style="float: right; width: 250px; margin-left: 15px;"/>
-I am an AI and Computer Vision Engineer , specializing in deep learning solutions for industrial automation. My work primarily focuses on developing robust and scalable APIs for  object or defect detection, semantic segmentation, and anomaly detection. Additionally, I have expertise in camera calibration, object alignment, and 3D Reconstruction.
+I am a researcher in Computer Vision and 3D AI, with a primary focus on geometry-aware learning, multi-view 3D reconstruction, and deep neural architectures for structured scene understanding.
 
-I am passionate about integrating vision-based robotics with large language models (LLMs) to enable intuitive human-robot communication. My work focuses on developing systems where robots can understand voice commands and respond naturally. To advance this, I have fine-tuned the Wav2Vec ASR model for Bangla and developed a [demo](https://siddique2127.pythonanywhere.com/).
+My research investigates how visual systems can reconstruct consistent 3D geometry from multi-view inputs while preserving camera parameters and global coordinate alignment. I work extensively with transformer-based architectures (ViT) for inferring unobserved regions and improving reconstruction fidelity beyond directly visible areas.
 
-I completed my MS and Ph.D. combined program in Computer Science and Engineering from Kyung Hee University, South Korea. My research interests include 3D reconstruction, video processing, semantic segmentation, and deep learning techniques applied to real-world problems.
+Alongside core 3D vision research, I am deeply interested in multidisciplinary vision-based applications where remote sensing, satellite imagery, and large-scale 2D observations are integrated with machine learning. My experience includes applying deep learning to space weather data (SOHO, SDO, SUVI missions) for enhancing solar image resolution and reconstructing 3D coronal structures.
+
+I am particularly motivated to extend computer vision and deep learning frameworks toward geospatial AI, and Earth observation systems.
 
 
 
